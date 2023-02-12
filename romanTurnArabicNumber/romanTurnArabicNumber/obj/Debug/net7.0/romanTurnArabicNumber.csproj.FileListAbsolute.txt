@@ -1,0 +1,15 @@
+C:\Users\Acer\works\romanTurnArabicNumber\romanTurnArabicNumber\bin\Debug\net7.0\romanTurnArabicNumber.exe
+C:\Users\Acer\works\romanTurnArabicNumber\romanTurnArabicNumber\bin\Debug\net7.0\romanTurnArabicNumber.deps.json
+C:\Users\Acer\works\romanTurnArabicNumber\romanTurnArabicNumber\bin\Debug\net7.0\romanTurnArabicNumber.runtimeconfig.json
+C:\Users\Acer\works\romanTurnArabicNumber\romanTurnArabicNumber\bin\Debug\net7.0\romanTurnArabicNumber.dll
+C:\Users\Acer\works\romanTurnArabicNumber\romanTurnArabicNumber\bin\Debug\net7.0\romanTurnArabicNumber.pdb
+C:\Users\Acer\works\romanTurnArabicNumber\romanTurnArabicNumber\obj\Debug\net7.0\romanTurnArabicNumber.csproj.AssemblyReference.cache
+C:\Users\Acer\works\romanTurnArabicNumber\romanTurnArabicNumber\obj\Debug\net7.0\romanTurnArabicNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\works\romanTurnArabicNumber\romanTurnArabicNumber\obj\Debug\net7.0\romanTurnArabicNumber.AssemblyInfoInputs.cache
+C:\Users\Acer\works\romanTurnArabicNumber\romanTurnArabicNumber\obj\Debug\net7.0\romanTurnArabicNumber.AssemblyInfo.cs
+C:\Users\Acer\works\romanTurnArabicNumber\romanTurnArabicNumber\obj\Debug\net7.0\romanTurnArabicNumber.csproj.CoreCompileInputs.cache
+C:\Users\Acer\works\romanTurnArabicNumber\romanTurnArabicNumber\obj\Debug\net7.0\romanTurnArabicNumber.dll
+C:\Users\Acer\works\romanTurnArabicNumber\romanTurnArabicNumber\obj\Debug\net7.0\refint\romanTurnArabicNumber.dll
+C:\Users\Acer\works\romanTurnArabicNumber\romanTurnArabicNumber\obj\Debug\net7.0\romanTurnArabicNumber.pdb
+C:\Users\Acer\works\romanTurnArabicNumber\romanTurnArabicNumber\obj\Debug\net7.0\romanTurnArabicNumber.genruntimeconfig.cache
+C:\Users\Acer\works\romanTurnArabicNumber\romanTurnArabicNumber\obj\Debug\net7.0\ref\romanTurnArabicNumber.dll
