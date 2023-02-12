@@ -10,7 +10,7 @@
 
     };
 
-string romanNumerals = "V";//這裡放入羅馬數字
+string romanNumerals = "XCIX";//這裡放入羅馬數字
 
 char[] romanNoArray = romanNumerals.ToCharArray();
 int result = 0;
