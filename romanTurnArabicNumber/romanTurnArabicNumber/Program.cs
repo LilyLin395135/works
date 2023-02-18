@@ -34,10 +34,8 @@ int RomanNumberToArabic(string romanNumber)
         else
         {
             throw new KeyNotFoundException($"Invalid Roman numeral character:{romanNoArray[i]}");
-            //Exception例外
+            //要思考使用者會不會亂打，要做"例外處理"
         }
     }
-
+    return result; //必加
 }
-
-
